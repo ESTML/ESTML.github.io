@@ -16,42 +16,42 @@ title: Location
   <th> Title of the Contribution </th>
 </tr>
 <tr>
-  <th> Prof. Alexandre Tkatchenko </th>
+  <td> Prof. Alexandre Tkatchenko </td>
   <td> - </td>
   <td> - </td>
 </tr>
 <tr>
-  <th> Prof. Patrick Rinke </th>
+  <td> Prof. Patrick Rinke </td>
   <td> - </td>
   <td> - </td>
 </tr>
 <tr>
-  <th> Assistant Prof. Milica Todorovic </th>
+  <td> Assistant Prof. Milica Todorovic </td>
   <td> - </td>
   <td> - </td>
 </tr>
 <tr>
-  <th> Dr. Carolin Müller </th>
+  <td> <b><a href='https://estml.github.io/contact/'>Dr. Carolin Müller</a></b> </td>
   <td> T </td>
   <td> Theoretical Spectroscopy and Molecular Excitations </td>
 </tr>
 <tr>
-  <th> Dr. Hilda Sandström </th>
+  <td> <b><a href='https://estml.github.io/contact/'>Dr. Hilda Sandström</a></b> </td>
   <td> T </td>
   <td> Theoretical Spectroscopy and Molecular Excitations </td>
 </tr>
 <tr>
-  <th> Dr. Ransell D'Souza </th>
+  <td> <b><a href='https://estml.github.io/contact/'>Dr. Ransell D'Souza</a></b> </td>
   <td> T </td>
   <td> Smart Materials and Biomolecules </td>
 </tr>
 <tr>
-  <th> Adil Kablyda </th>
+  <td> <b><a href='https://estml.github.io/contact/'>Adil Kablyda</a></b> </td>
   <td> T </td>
   <td> Machine Learning Force Fields for Materials and Molecules ? </td>
 </tr>
 <tr>
-  <th> ??? </th>
+  <td> ??? </td>
   <td> T </td>
   <td> Design of Materials and Molecules </td>
 </tr>
