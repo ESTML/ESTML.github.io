@@ -23,8 +23,8 @@ title: About the Organizers
   </td>
 </tr>
 <tr>
-  <td width="300"> I’m a chemist passionate about unraveling the mysteries behind the behaviour of photoexcited molecules using a combination of high-end spectroscopic, computational chemistry and cheminformatics methods. </i> </td>
-  <td width="300"> ... </i> </td>
+  <td width="300"> <i> I’m a chemist passionate about unraveling the mysteries behind the behaviour of photoexcited molecules using a combination of high-end spectroscopic, computational chemistry and cheminformatics methods. </i> </td>
+  <td width="300"> <i> ... </i> </td>
 </tr>
 </table>
 
@@ -46,8 +46,8 @@ title: About the Organizers
   </td>
 </tr>
 <tr>
-  <td width="300"> ... </i> </td>
-  <td width="300"> ... </i> </td>
+  <td width="300"> <i> ... </i> </td>
+  <td width="300"> <i> ... </i> </td>
 </tr>
 </table>
 
