@@ -19,9 +19,13 @@ title: About the Organizers
     <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/carolin_mueller.png'> <br>
    <i> I’m a chemist passionate about unraveling the mysteries behind the behaviour of photoexcited molecules using a combination of high-end spectroscopic, computational chemistry and cheminformatics methods. </i> <br>
   </td>
-<td> ... </td>
+  <td width="300"> 
+    <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/adil_kabylda.png'>
+  </td>
 </tr>
+</table>
 
+<table>
 <tr>
   <th> Ransell D'Souza </th>
   <th> Adil Kabylda </th>
@@ -31,7 +35,9 @@ title: About the Organizers
   <td> PhD <br> University of Luxembourg </td>
 </tr>
 <tr>
-<td> ... </td>
+  <td width="300"> 
+    <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/adil_kabylda.png'>
+  </td>
   <td width="300"> 
     <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/adil_kabylda.png'>
   </td>
