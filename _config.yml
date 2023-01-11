@@ -16,9 +16,11 @@ paginate: 5
 navigation:
   - title: Home
     url: /index.html
-  - title: About
-    url: /about
-  - title: Contact
+  - title: Location
+    url: /location
+  - title: Schedule
+    url: /schedule
+  - title: About the Organizers
     url: /contact
 
 social:
