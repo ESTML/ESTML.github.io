@@ -16,12 +16,15 @@ title: About the Organizers
 </tr>
 <tr>
   <td width="300"> 
-    <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/carolin_mueller.png'> <br>
-   <i> I’m a chemist passionate about unraveling the mysteries behind the behaviour of photoexcited molecules using a combination of high-end spectroscopic, computational chemistry and cheminformatics methods. </i> <br>
+    <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/carolin_mueller.png'> 
   </td>
   <td width="300"> 
     <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/adil_kabylda.png'>
   </td>
+</tr>
+<tr>
+  <td width="300"> I’m a chemist passionate about unraveling the mysteries behind the behaviour of photoexcited molecules using a combination of high-end spectroscopic, computational chemistry and cheminformatics methods. </i> </td>
+  <td width="300"> ... </i> </td>
 </tr>
 </table>
 
@@ -41,6 +44,10 @@ title: About the Organizers
   <td width="300"> 
     <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/adil_kabylda.png'>
   </td>
+</tr>
+<tr>
+  <td width="300"> ... </i> </td>
+  <td width="300"> ... </i> </td>
 </tr>
 </table>
 
