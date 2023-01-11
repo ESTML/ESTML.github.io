@@ -24,7 +24,7 @@ title: About the Organizers
 </tr>
 <tr>
   <td width="300"> <i> I’m a chemist passionate about unraveling the mysteries behind the behaviour of photoexcited molecules using a combination of high-end spectroscopic, computational chemistry and cheminformatics methods. </i> </td>
-  <td width="300"> <i> ... </i> </td>
+  <td width="300"> <i> I’m a computational scientist who enjoys working with atmospheric chemistry and astrochemistry using quantum chemistry and molecular dynamics in a combination with machine learning techniques. </i> </td>
 </tr>
 </table>
 
