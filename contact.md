@@ -19,7 +19,7 @@ title: About the Organizers
     <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/carolin_mueller.png'> 
   </td>
   <td width="300"> 
-    <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/adil_kabylda.png'>
+    <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/hilda_sandstroem.png'>
   </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ title: About the Organizers
 </tr>
 <tr>
   <td width="300"> 
-    <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/adil_kabylda.png'>
+    <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/ransell_dsouza.png'>
   </td>
   <td width="300"> 
     <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/adil_kabylda.png'>
