@@ -17,42 +17,42 @@ title: Location
 </tr>
 <tr>
   <th> Prof. Alexandre Tkatchenko </th>
-  <th> - </th>
-  <th> - </th>
+  <td> - </td>
+  <td> - </td>
 </tr>
 <tr>
   <th> Prof. Patrick Rinke </th>
-  <th> - </th>
-  <th> - </th>
+  <td> - </td>
+  <td> - </td>
 </tr>
 <tr>
   <th> Assistant Prof. Milica Todorovic </th>
-  <th> - </th>
-  <th> - </th>
+  <td> - </td>
+  <td> - </td>
 </tr>
 <tr>
   <th> Dr. Carolin Müller </th>
-  <th> T </th>
-  <th> Theoretical Spectroscopy and Molecular Excitations </th>
+  <td> T </td>
+  <td> Theoretical Spectroscopy and Molecular Excitations </td>
 </tr>
 <tr>
   <th> Dr. Hilda Sandström </th>
-  <th> T </th>
-  <th> Theoretical Spectroscopy and Molecular Excitations </th>
+  <td> T </td>
+  <td> Theoretical Spectroscopy and Molecular Excitations </td>
 </tr>
 <tr>
   <th> Ransell D'Souza </th>
-  <th> T </th>
-  <th> Smart Materials and Biomolecules </th>
+  <td> T </td>
+  <td> Smart Materials and Biomolecules </td>
 </tr>
 <tr>
   <th> Adil Kablyda </th>
-  <th> T </th>
-  <th> Machine Learning Force Fields for Materials and Molecules ? </th>
+  <td> T </td>
+  <td> Machine Learning Force Fields for Materials and Molecules ? </td>
 </tr>
 <tr>
   <th> ??? </th>
-  <th> T </th>
-  <th> Design of Materials and Molecules </th>
+  <td> T </td>
+  <td> Design of Materials and Molecules </td>
 </tr>
 </table>
