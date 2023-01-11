@@ -46,7 +46,7 @@ title: About the Organizers
   </td>
 </tr>
 <tr>
-  <td width="300"> <i> ... </i> </td>
+  <td width="300"> <i> My ongoing research at the University of Turku focuses on integrating multi-objective optimization AI approaches to improve the performance of various technologies such as sensors and thermoelectric materials. </i> </td>
   <td width="300"> <i> ... </i> </td>
 </tr>
 </table>
