@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Location
+title: Schedule and Participants
 ---
 
 ## Schedule
