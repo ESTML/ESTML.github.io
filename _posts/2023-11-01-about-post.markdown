@@ -1,6 +1,7 @@
 ---
-layout: default
-title: ESTML 2023
+layout: post
+title:  "About"
+date:   2023-10-01
 ---
 
 The <b>ESTQML 2023</b> conference is organized by <br>
