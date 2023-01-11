@@ -11,12 +11,8 @@ title: About the Organizers
   <th> Hilda Sandström </th>
 </tr>
 <tr>
-  <td width="300", style='text-align:center; vertical-align:middle'> 
-    PostDoc <br> University of Luxembourg 
-  </td>
-  <td width="300", style='text-align:center; vertical-align:middle'> 
-    PostDoc <br> Aalto University
-  </td>
+  <td> PostDoc <br> University of Luxembourg </td>
+  <td> PostDoc <br> Aalto University </td>
 </tr>
 <tr>
   <td width="300"> 
@@ -31,12 +27,8 @@ title: About the Organizers
   <th> Adil Kabylda </th>
 </tr> 
 <tr>
-  <td width="300", style='text-align:center; vertical-align:middle'> 
-    PostDoc <br> University of Turku 
-  </td>
-  <td width="300", style='text-align:center; vertical-align:middle'> 
-    PhD <br> University of Luxembourg
-  </td>
+  <td> PostDoc <br> University of Turku </td>
+  <td> PhD <br> University of Luxembourg </td>
 </tr>
 <tr>
 <td> ... </td>
