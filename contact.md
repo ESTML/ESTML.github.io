@@ -14,7 +14,7 @@ title: Contact Us
 </tr>
 <tr>
 <th> Adil Kabylda </th>
-<td> <img src=”https://www.AnyWebPage.com/images/red.jpg” width=”280″ > </td>
+<td> <img src=”assets/img/adil_kabylda.png” width=”280″ > </td>
 <th> Ransell D'Souza </th>
 <td> <img src=”https://www.AnyWebPage.com/images/black.jpg” width=”280″> </td>
 </tr>
