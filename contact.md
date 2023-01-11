@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact
+title: Contact Us
 ---
 
 ## Contact Us
@@ -8,7 +8,7 @@ title: Contact
 <table>
 <tr>
 <th> Carolin Müller </th>
-<td> <img src=”https://www.AnyWebPage.com/images/blue.jpg” width=”280″> </td>
+<td> <img src=”assets/img/carolin_mueller.png” width=”280″> </td>
 <th> Hilda Sandström </th>
 <td> <img src=”https://www.AnyWebPage.com/images/orange.jpg” width=”280″> </td>
 </tr>
