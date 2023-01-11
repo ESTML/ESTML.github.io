@@ -3,11 +3,11 @@ layout: default
 title: Schedule and Participants
 ---
 
-## Schedule
+# Schedule
 
 ...
 
-## Participants
+# Participants
 
 <table>
 <tr>
