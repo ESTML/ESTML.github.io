@@ -41,7 +41,7 @@ title: Location
   <td> Theoretical Spectroscopy and Molecular Excitations </td>
 </tr>
 <tr>
-  <th> Ransell D'Souza </th>
+  <th> Dr. Ransell D'Souza </th>
   <td> T </td>
   <td> Smart Materials and Biomolecules </td>
 </tr>
