@@ -4,6 +4,6 @@ title:  "Meeting of the board"
 date:   2023-01-11
 ---
 
-<p class="intro"><span class="dropcap"> F</span> irst meeting of the organizers.</p>
+<p class="intro"><span class="dropcap"> F</span>irst meeting of the organizers. </p>
 <br>
-<img src="/assets/img/touring.jpg" alt=""> 
+<img width=450, src="/assets/img/touring.jpg" alt=""> 
