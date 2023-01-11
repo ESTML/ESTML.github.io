@@ -4,7 +4,7 @@ title:  "About"
 date:   2023-10-01
 ---
 
-The <b>ESTQML 2023</b> conference is organized by <br>
+<p class="intro"><span class="dropcap"> T</span> he <b>ESTQML 2023</b> conference is organized by <br>
 <br>
 <ul>
   <li> the University of Luxembourg (Prof. Alexandre Tkatchenko, Dr. Carolin Müller, and Adil Kabylda), </li>
