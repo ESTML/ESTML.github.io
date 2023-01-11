@@ -11,8 +11,8 @@ title: About the Organizers
   <th> Hilda Sandström </th>
 </tr>
 <tr>
-  <td> PostDoc <br> University of Luxembourg </td>
-  <td> PostDoc <br> Aalto University </td>
+  <td> PostDoc <br> University of Luxembourg <br> (carolin.mueller@ext.uni.lu) </td>
+  <td> PostDoc <br> Aalto University <br> (hilda.sandstrom@aalto.fi) </td>
 </tr>
 <tr>
   <td width="300"> 
@@ -34,8 +34,8 @@ title: About the Organizers
   <th> Adil Kabylda </th>
 </tr> 
 <tr>
-  <td> PostDoc <br> University of Turku </td>
-  <td> PhD <br> University of Luxembourg </td>
+  <td> PostDoc <br> University of Turku <br> (ransell.dsouza@utu.fi) </td>
+  <td> PhD <br> University of Luxembourg <br> (adil.kabylda@uni.lu) </td>
 </tr>
 <tr>
   <td width="300"> 
