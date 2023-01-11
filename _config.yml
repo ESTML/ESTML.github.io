@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: ESTML 2023
+description: Electronic Structure Theory and Machine Learning in Materials Science and Computational Chemistry, 17.04.2023 - 21.04.2023
 
-url: https://long-haul.netlify.app
+url: 
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -22,13 +22,12 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: ESTML
+  twitter:  
+  facebook:  
+  email: carolin.mueller@ext.uni.lu
+  linkedin:  
 
 google_analytics: "UA-58263416-1"
 
-disqus:
-    shortname: brianmaierjr
+
