@@ -17,7 +17,7 @@ title: About the Organizers
 <tr>
   <td width="300"> 
     <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/carolin_mueller.png'> <br>
-   <i> I am a chemist passionate about unraveling the mysteries behind the behaviour of photoexcited molecules using high-end spectroscopy methods. </i> <br>
+   <i> I’m a chemist passionate about unraveling the mysteries behind the behaviour of photoexcited molecules using a combination of high-end spectroscopic, computational chemistry and cheminformatics methods. </i> <br>
   </td>
 <td> ... </td>
 </tr>
@@ -32,8 +32,8 @@ title: About the Organizers
 </tr>
 <tr>
 <td> ... </td>
-  <td> 
-    <img width=200 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/adil_kabylda.png'>
+  <td width="300"> 
+    <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/adil_kabylda.png'>
   </td>
 </tr>
 </table>
