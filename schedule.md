@@ -7,6 +7,19 @@ title: Schedule and Participants
 
 ...
 
+### Topics
+
+- Electronic structure theory development,
+- Theoretical Spectroscopy and Molecular Excitations
+- ML Force Fields for Materials and Molecules
+- ML for Biomolecules and -materials,
+- ML in Materials Science,
+- Data driven Materials Science,
+- AI for atmospheric science,
+- Materials for clean energy,
+- Hybrid materials
+
+
 # Participants
 
 <table>
