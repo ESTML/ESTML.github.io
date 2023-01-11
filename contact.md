@@ -11,8 +11,7 @@ title: About the Organizers
   <td width="300"> 
       <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/carolin_mueller.png'> 
       <br> <br>
-      <b>Dr. Carolin Müller</b> <br>
-      <br> University of Luxembourg <br> (carolin.mueller@ext.uni.lu) 
+      <p style="color:#bc4e0f";> <b>Dr. Carolin Müller</b> <br> University of Luxembourg </p>
   </td>
   <td width="300"> <br> <br> <i> I’m a chemist passionate about unraveling the mysteries behind the behaviour of photoexcited molecules using a combination of high-end spectroscopic, computational chemistry and cheminformatics methods. </i> </td>
 </tr>
@@ -22,8 +21,7 @@ title: About the Organizers
   <td width="300">
      <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/hilda_sandstroem.png'> 
     <br> <br>
-    <b>Dr. Hilda Sandström</b> <br> 
-    <br> Aalto University <br> (hilda.sandstrom@aalto.fi) 
+      <p style="color:#bc4e22";> <b>Dr. Hilda Sandström</b> <br> Aalto University </p>
   </td>
 </tr>
     
@@ -31,8 +29,7 @@ title: About the Organizers
   <td width="300">
       <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/adil_kabylda.png'> 
       <br> <br>
-      <b>Adil Kabylda </b> <br> 
-      <br> University of Luxembourg <br> (adil.kabylda@uni.lu) 
+      <p style="color:#bc4e0f";> <b>Adil Kabylda </b> <br> University of Luxembourg </p>
   </td>
   <td width="300"> <br> <br> <i> ... </i> </td>
 </tr>
@@ -42,8 +39,7 @@ title: About the Organizers
   <td width="300"> 
     <img width=250 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/ransell_dsouza.png'> 
     <br> <br>
-    <b>Dr. Ransell D'Souza</b> <br> 
-    <br> University of Turku <br> (ransell.dsouza@utu.fi) 
+      <p style="color:#a24818";> <b>Dr. Ransell D'Souza</b> <br> University of Turku </p>
   </td>
 </tr>
 
