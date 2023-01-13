@@ -11,6 +11,7 @@ title: Schedule and Participants
 
 - Electronic structure theory development,
 - Theoretical Spectroscopy and Molecular Excitations
+- Software Development
 - ML Force Fields for Materials and Molecules
 - ML for Biomolecules and -materials,
 - ML in Materials Science,
@@ -56,7 +57,7 @@ title: Schedule and Participants
 <tr>
   <td> <b><a href='https://estml.github.io/contact/'>Dr. Ransell D'Souza</a></b> </td>
   <td> T </td>
-  <td> Smart Materials and Biomolecules </td>
+  <td> Software Development </td>
 </tr>
 <tr>
   <td> <b><a href='https://estml.github.io/contact/'>Adil Kablyda</a></b> </td>
@@ -64,9 +65,9 @@ title: Schedule and Participants
   <td> Machine Learning Force Fields for Materials and Molecules ? </td>
 </tr>
 <tr>
-  <td> ??? </td>
+  <td> Ariadni Boziki </td>
   <td> T </td>
-  <td> Design of Materials and Molecules </td>
+  <td> ... </td>
 </tr>
 <tr>
   <td> ??? </td>
