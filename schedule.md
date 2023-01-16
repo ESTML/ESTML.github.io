@@ -14,11 +14,11 @@ title: Schedule and Participants
   <th> Day-4 </th>
 </tr>
 <tr>
-  <td> 09:00 </td>
-  <td rowspan="6" width=200> Arrival </td>
-  <td rowspan="6" width=200> <b>ML for Materials</b> <br> <i>(Chair: Carolin)</i> <br> T5: Ariadni (LUX) <br> T6: tba <br> T7: Anton (LUX) <br> T8: tba </td>
-  <td rowspan="6" width=200> <b>ML for Biomolecules and -materials</b> <br> <i>(Chair: tba)</i> <br> T13: Mirela (LUX) <br> T14: tba <br> T15: Nils (LUX) <br> T16: tba </td>
-  <td rowspan="4" width=200> <b>ML for Small Systems</b> <br> <i>(Chair: tba)</i> <br> T19: Hilda (FIN) <br> T20: Almaz (LUX) </td>
+  <td width=100> 09:00 </td>
+  <td rowspan="6" width=300> Arrival </td>
+  <td rowspan="6" width=300> <b>ML for Materials</b> <br> <i>(Chair: Carolin)</i> <br> T5: Ariadni (LUX) <br> T6: tba <br> T7: Anton (LUX) <br> T8: tba </td>
+  <td rowspan="6" width=300> <b>ML for Biomolecules and -materials</b> <br> <i>(Chair: tba)</i> <br> T13: Mirela (LUX) <br> T14: tba <br> T15: Nils (LUX) <br> T16: tba </td>
+  <td rowspan="4" width=300> <b>ML for Small Systems</b> <br> <i>(Chair: tba)</i> <br> T19: Hilda (FIN) <br> T20: Almaz (LUX) </td>
 </tr>
 <tr>
   <td> 09:30 </td>
