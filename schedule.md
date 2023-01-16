@@ -201,7 +201,7 @@ title: Schedule and Participants
 <tr>
   <td> Gregory Cordeiro Fonseca </td>
   <td> LUX </td>
-  <td> P </td>
+  <td> T </td>
   <td> ... </td>
 </tr>
 <tr>
