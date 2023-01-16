@@ -13,129 +13,129 @@ title: Schedule and Participants
   <th> Day-3 </th>
   <th> Day-4 </th>
 </tr>
-<tr>
+<tr VALIGN=TOP>
   <td width=100> 09:00 </td>
   <td rowspan="6" width=300> Arrival </td>
   <td rowspan="6" width=300> <b>ML for Materials</b> <br> <i>(Chair: Carolin)</i> <br> T5: Ariadni (LUX) <br> T6: tba <br> T7: Anton (LUX) <br> T8: tba </td>
   <td rowspan="6" width=300> <b>ML for Biomolecules and -materials</b> <br> <i>(Chair: tba)</i> <br> T13: Mirela (LUX) <br> T14: tba <br> T15: Nils (LUX) <br> T16: tba </td>
   <td rowspan="4" width=300> <b>ML for Small Systems</b> <br> <i>(Chair: tba)</i> <br> T19: Hilda (FIN) <br> T20: Almaz (LUX) </td>
 </tr>
-<tr>
+<tr VALIGN=TOP>
   <td> 09:30 </td>
 </tr>
-<tr>
+<tr VALIGN=TOP>
   <td> 10:00 </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 10:30 </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 11:00 </td>
   <td rowspan="1"> Closing Remarks </td>
 </tr>
-<tr>
+<tr VALIGN=TOP>
   <td> 11:30 </td>
   <td rowspan="3"> Departure </td>
 </tr>
-<tr>
+<tr VALIGN=TOP>
   <td> 12:00 </td>
   <td rowspan="3"> Lunch </td>
   <td rowspan="8"> Open Discussion </td>
   <td rowspan="8"> Open Discussion </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 12:30 </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 13:00 </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 13:30 </td>
   <td rowspan="4"> Posters & Open Discussions </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 14:00 </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 14:30 </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 15:00 </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 15:30 </td>
   <td rowspan="1"> Opening Remarks </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 16:00 </td>
   <td rowspan="3"> <b> Software </b> <br> (<i>Chair: Adil</i>) <br> T1: Gregory (LUX) <br> T2: Ransell (FIN) </td>
   <td rowspan="3"> <b> Fundamental QM I </b> <br> (<i>Chair: tba</i>) <br> T9: tba (LUX) <br> T10: tba (FIN) </td>
   <td rowspan="3"> <b> Fundamental QM III </b> <br> (<i>Chair: tba</i>) <br> T17: tba (FIN) <br> T18: tba (LUX) </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 16:30 </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 17:00 </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 17:30 </td>
   <td rowspan="4"> Dinner </td>
   <td rowspan="4"> Dinner </td>
   <td rowspan="4"> Dinner </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 18:00 </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 18:30 </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 19:00 </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 19:30 </td>
   <td rowspan="3"> <b> Spectroscopy </b> <br> (<i>Chair: tba </i>) <br> T3: Carolin (LUX) <br> T4: tba </td>
   <td rowspan="3"> <b> Fundamental QM II </b> <br> (<i>Chair: tba</i>) <br> T11: Matteo (LUX) <br> T12: tba </td>
   <td rowspan="6"> <b> Social Evening </b> </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 20:00 </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 20:30 </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 21:00 </td>  
   <td rowspan="3"> Posters & Open Discussion </td>
   <td rowspan="3"> Posters & Open Discussion </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 21:30 </td>
 </tr>
   
-<tr>
+<tr VALIGN=TOP>
   <td> 22:00 </td>
 </tr>
 <table>
