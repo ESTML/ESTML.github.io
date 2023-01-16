@@ -140,19 +140,6 @@ title: Schedule and Participants
 </tr>
 <table>
 
-### Topics
-
-- Electronic structure theory development,
-- Theoretical Spectroscopy and Molecular Excitations
-- Software Development
-- ML Force Fields for Materials and Molecules
-- ML for Biomolecules and -materials,
-- ML in Materials Science,
-- Data driven Materials Science,
-- AI for atmospheric science,
-- Materials for clean energy,
-- Hybrid materials
-
 
 # Participants
 
@@ -198,13 +185,23 @@ title: Schedule and Participants
   <td> Machine Learning Force Fields for Materials and Molecules ? </td>
 </tr>
 <tr>
-  <td> Ariadni Boziki </td>
+  <td> Dr. Ariadni Boziki </td>
   <td> T </td>
   <td> ... </td>
 </tr>
 <tr>
-  <td> ??? </td>
+  <td> Gregory Cordeiro Fonseca </td>
   <td> P </td>
+  <td> ... </td>
+</tr>
+<tr>
+  <td> Dr. Leonardo Medrano-Sandonas </td>
+  <td> P </td>
+  <td> ... </td>
+</tr>
+<tr>
+  <td> Mirela Puleva </td>
+  <td> T </td>
   <td> ... </td>
 </tr>
 </table>
