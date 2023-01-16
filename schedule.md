@@ -146,61 +146,73 @@ title: Schedule and Participants
 <table>
 <tr>
   <th> Participant </th>
+  <th> Country </th>
   <th> P/T </th>
   <th> Title of the Contribution </th>
 </tr>
 <tr>
   <td> Prof. Alexandre Tkatchenko </td>
+  <td> LUX </td>
   <td> - </td>
   <td> - </td>
 </tr>
 <tr>
   <td> Prof. Patrick Rinke </td>
+  <td> FIN </td>
   <td> - </td>
   <td> - </td>
 </tr>
 <tr>
   <td> Assistant Prof. Milica Todorovic </td>
+  <td> FIN </td>
   <td> - </td>
   <td> - </td>
 </tr>
 <tr>
   <td> <b><a href='https://estml.github.io/contact/'>Dr. Carolin Müller</a></b> </td>
+  <td> LUX </td>
   <td> T </td>
-  <td> Theoretical Spectroscopy and Molecular Excitations </td>
+  <td> Spectroscopy </td>
 </tr>
 <tr>
   <td> <b><a href='https://estml.github.io/contact/'>Dr. Hilda Sandström</a></b> </td>
+  <td> FIN </td>
   <td> T </td>
-  <td> Theoretical Spectroscopy and Molecular Excitations </td>
+  <td> ML for Small Systems </td>
 </tr>
 <tr>
   <td> <b><a href='https://estml.github.io/contact/'>Dr. Ransell D'Souza</a></b> </td>
+  <td> FIN </td>
   <td> T </td>
   <td> Software Development </td>
 </tr>
 <tr>
   <td> <b><a href='https://estml.github.io/contact/'>Adil Kablyda</a></b> </td>
+  <td> LUX </td>
   <td> T </td>
-  <td> Machine Learning Force Fields for Materials and Molecules ? </td>
+  <td> ML for Materials </td>
 </tr>
 <tr>
   <td> Dr. Ariadni Boziki </td>
+  <td> LUX </td>
   <td> T </td>
   <td> ... </td>
 </tr>
 <tr>
   <td> Gregory Cordeiro Fonseca </td>
+  <td> LUX </td>
   <td> P </td>
   <td> ... </td>
 </tr>
 <tr>
   <td> Dr. Leonardo Medrano-Sandonas </td>
+  <td> LUX </td>
   <td> P </td>
   <td> ... </td>
 </tr>
 <tr>
   <td> Mirela Puleva </td>
+  <td> LUX </td>
   <td> T </td>
   <td> ... </td>
 </tr>
