@@ -16,9 +16,9 @@ title: Schedule and Participants
 <tr>
   <td> 09:00 </td>
   <td rowspan="6" width=200> Arrival </td>
-  <td rowspan="6" width=200> <b>ML for Materials</b> <br> <i>(Chair: Carolin)</i> <br> T5: Ariadni <br> T6: tba <br> T7: Anton <br> T8: tba </td>
-  <td rowspan="6" width=200> <b>ML for Materials</b> <br> <i>(Chair: tba)</i> <br> T13: Mirela <br> T14: tba <br> T15: Nils <br> T16: tba </td>
-  <td rowspan="4" width=200> <b>ML for Small Systems</b> <br> <i>(Chair: tba)</i> <br> T19: Hilda <br> T20: Almaz </td>
+  <td rowspan="6" width=200> <b>ML for Materials</b> <br> <i>(Chair: Carolin)</i> <br> T5: Ariadni (LUX) <br> T6: tba <br> T7: Anton (LUX) <br> T8: tba </td>
+  <td rowspan="6" width=200> <b>ML for Biomolecules and -materials</b> <br> <i>(Chair: tba)</i> <br> T13: Mirela (LUX) <br> T14: tba <br> T15: Nils (LUX) <br> T16: tba </td>
+  <td rowspan="4" width=200> <b>ML for Small Systems</b> <br> <i>(Chair: tba)</i> <br> T19: Hilda (FIN) <br> T20: Almaz (LUX) </td>
 </tr>
 <tr>
   <td> 09:30 </td>
@@ -78,9 +78,9 @@ title: Schedule and Participants
   
 <tr>
   <td> 16:00 </td>
-  <td rowspan="3"> <b> Software </b> <br> (<i>Chair: Adil</i>) <br> T1: Gregory <br> T2: Ransell </td>
-  <td rowspan="3"> <b> Fundamental QM I </b> <br> (<i>Chair: tba</i>) <br> T9: tba <br> T10: tba </td>
-  <td rowspan="3"> <b> Fundamental QM III </b> <br> (<i>Chair: tba</i>) <br> T17: tba <br> T18: tba </td>
+  <td rowspan="3"> <b> Software </b> <br> (<i>Chair: Adil</i>) <br> T1: Gregory (LUX) <br> T2: Ransell (FIN) </td>
+  <td rowspan="3"> <b> Fundamental QM I </b> <br> (<i>Chair: tba</i>) <br> T9: tba (LUX) <br> T10: tba (FIN) </td>
+  <td rowspan="3"> <b> Fundamental QM III </b> <br> (<i>Chair: tba</i>) <br> T17: tba (FIN) <br> T18: tba (LUX) </td>
 </tr>
   
 <tr>
@@ -112,8 +112,8 @@ title: Schedule and Participants
   
 <tr>
   <td> 19:30 </td>
-  <td rowspan="3"> <b> Spectroscopy </b> <br> (<i>Chair: tba </i>) <br> T3: Carolin <br> T4: tba </td>
-  <td rowspan="3"> <b> Fundamental QM II </b> <br> (<i>Chair: tba</i>) <br> T11: Matteo <br> T12: tba </td>
+  <td rowspan="3"> <b> Spectroscopy </b> <br> (<i>Chair: tba </i>) <br> T3: Carolin (LUX) <br> T4: tba </td>
+  <td rowspan="3"> <b> Fundamental QM II </b> <br> (<i>Chair: tba</i>) <br> T11: Matteo (LUX) <br> T12: tba </td>
   <td rowspan="6"> <b> Social Evening </b> </td>
 </tr>
   
