@@ -586,6 +586,10 @@ tr {
   tr:nth-child(even) {
     background-color: #f7f7f7; }
 
+.colored-cell {
+    background-color: blue;
+}
+
 td {
   padding: 7px;
   border-right: 1px solid #d0d0d0; }
