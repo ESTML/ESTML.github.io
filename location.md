@@ -6,7 +6,7 @@ title: Location
 ## Location
 
 We are pleased to announce our venue for the ESTML conference: the [Hullu Poro Hotel](https://www.hulluporo.fi/en/) in Levi, Finland!
-This modern and cozy venue is the perfect place for our three workgroups (Tkatchenko, Rinke and Todorovic) to come together, bond, and get some work done. Located in the beautiful Finnish wilderness, it offers stunning views and a break from the daily grind.
+This modern and cozy venue is the perfect place for our three workgroups (Tkatchenko, Rinke and Todorović) to come together, bond, and get some work done. Located in the beautiful Finnish wilderness, it offers stunning views and a break from the daily grind.
 
 To get there, you can fly into Kittilä Airport (KTT) and then take a taxi or shuttle straight to the hotel. We can't wait to spend this time together and make the most of our stay at the Hullu Poro. See you soon!
 
