@@ -50,5 +50,7 @@ tba
 
 #### Day-1/Day-2: 17<sup>th</sup>/18<sup>th</sup> of April
 
-- Train from Helsinki to Kittila, departure at 18:30, arrival on 18<sup>th</sup> at 10.55
+- Train: Turku to Helsinki on 17<sup>th</sup> at 18:30
+- Train from Helsinki to Kittila, departure at 20:29 or 22:03, arrival on 18<sup>th</sup> at 10.55 (both options)
+- Bus: Kittila to Kolari on 18<sup>th</sup>, departure at 11:10
 
