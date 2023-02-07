@@ -37,7 +37,7 @@ title: About the Organizers
         <p style="color:rgb(60,177,195);"> <b>Adil Kabylda </b> <br> University of Luxembourg </p>
       </body>
   </td>
-  <td width="300"> <br> <i> ... </i> </td>
+  <td width="300"> <br> <i> I'm a PhD researcher focused on extending the applicability of machine learning force fields to larger molecules by accurately describing long-range interactions. </i> </td>
 </tr>
 
 <tr VALIGN=TOP>
