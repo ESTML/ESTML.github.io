@@ -6,4 +6,18 @@ date:   2023-01-11
 
 <p class="intro"><span class="dropcap"> F</span>irst meeting of the organizers. </p>
 <br>
-<img width=450 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/touring.jpg' alt=""> 
+
+<table>
+  <tr>
+    <td width=200> <img width=200 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/adil_kabylda.png'> </td> 
+    <td width=200> <img width=200 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/carolin_mueller.png'> </td>
+    <td width=200> <img width=200 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/hilda_sandstroem.png'> </td>
+    <td width=200> <img width=200 src='https://raw.githubusercontent.com/ESTML/ESTML.github.io/main/assets/img/ransell_dsouza.png'> </td> 
+  </tr>
+  <tr>
+    <td> Adil Kabylda </td>
+    <td> Carolin Müller </td>
+    <td> Hilda Sandström </td>
+    <td> Ransell D'Souza </td>
+  </tr>
+</table>
