@@ -6,11 +6,11 @@ date:   2023-04-14
 
 <p class="intro"><span class="dropcap"> W</span>e are excited to welcome you to our upcoming conference in just a few days!☀️ </p>
   
-As a final reminder, we kindly request that all presenters send their presentations to their assigned chair person by the 18<sup>th</sup> of April 2023 to ensure smooth and timely delivery of sessions.
+As a final reminder, we kindly request that all presenters send their presentations to their assigned chair person one day before your session to ensure smooth and timely delivery of sessions.
 
 In addition to the presentation submissions, we would like to inform you about the meals that will be provided during the conference. 
-  Breakfast will be served in Taivas, lunch will be in Ämmilä, and dinner will be served in Ämmilä on the 18<sup>th</sup> and 20<sup>th</sup>. 
-  On the 20<sup>th</sup>, dinner will be served at [Break Sokos Hotel](https://estml.github.io/blog/Dinner-20th/). 
+  Breakfast will be served in Taivas, lunch will be served in Ämmilä. 
+  Dinner will be served in Ämmilä on the 18<sup>th</sup> and 20<sup>th</sup>, and at [Break Sokos Hotel](https://estml.github.io/blog/Dinner-20th/) on the 20<sup>th</sup>. 
   Fruits, tea, and coffee will also be provided during the morning sessions from the 19<sup>th</sup> to the 21<sup>st</sup> of April.
 
 Furthermore, we would like to invite you to a welcome reception on the evening of the 18<sup>th</sup>. 
