@@ -8,7 +8,7 @@ date:   2023-04-14
 As a final reminder, we kindly request that all presenters send their presentations to their assigned chair person by the 18<sup>th</sup> of April 2023 to ensure smooth and timely delivery of sessions.
 
 In addition to the presentation submissions, we would like to inform you about the meals that will be provided during the conference. 
-  Breakfast will be served in Taivas, lunch will be in Ämmilo, and dinner will be served in Ämmilo on the 18<sup>th</sup> and 20<sup>th</sup>. 
+  Breakfast will be served in Taivas, lunch will be in Ämmilä, and dinner will be served in Ämmilä on the 18<sup>th</sup> and 20<sup>th</sup>. 
   On the 20<sup>th</sup>, dinner will be served at [Break Sokos Hotel](https://estml.github.io/blog/Dinner-20th/). 
   Fruits, tea, and coffee will also be provided during the morning sessions from the 19<sup>th</sup> to the 21<sup>st</sup> of April.
 
